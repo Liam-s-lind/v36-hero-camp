@@ -15,3 +15,10 @@
   text-decoration: none;
 }
 
+
+.card {
+    margin: 1.5rem 0;
+    padding: 1rem;
+    background-color: lightgray;
+    color: #1e293b;
+}
